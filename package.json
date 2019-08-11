@@ -1,0 +1,30 @@
+{
+  "name": "mrshaw-web-qa",
+  "version": "1.0.0",
+  "description": "This is the automated test suite for mrshaw.ml .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickStick/MRShaw-Web-QA.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "WebDriver",
+    "Selenium",
+    "MRShaw",
+    "Mikhail",
+    "Rene",
+    "Shaw",
+    "Mrshaw",
+    "mrshaw"
+  ],
+  "author": "Mikhail Rene Shaw",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/MickStick/MRShaw-Web-QA/issues"
+  },
+  "homepage": "https://github.com/MickStick/MRShaw-Web-QA#readme"
+}
